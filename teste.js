@@ -13,9 +13,3 @@ console.log(typeof undefined);// 'undefine'
 console.log(typeof null);// 'object' (bug)
 console.log(typeof 123n);// 'bigint'
 console.log(typeof Symbol('id'));// 'Symbol'
-
-//verificação de tipos
-let valor = 'texto';
-if (typeof valor == 'string') {
-    console.log('é uma string');
-}
