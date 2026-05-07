@@ -30,4 +30,4 @@ function calcular(a, b, op){
     }
 }
 
-calcular(A, B, op) bruh bruh
+calcular(A, B, op)
